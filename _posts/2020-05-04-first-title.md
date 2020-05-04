@@ -1,6 +1,6 @@
 ---
 title: "My first blog post title"
-date: YYYY-MM-DD
+date: 2020-05-04
 ---
 
 # Welcome
